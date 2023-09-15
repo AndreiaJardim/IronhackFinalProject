@@ -1,0 +1,7 @@
+{
+         "name": "Grapes to Grades",
+         "dataColors": ["#745E4D", "#262920", "#A18F63", "#BD9479", "#3F2719", "#CB9D69", "#000000", "#F8F7F4"],
+         "background":"#EBDAA8",
+         "foreground": "#F8F7F4",
+         "tableAccent": "#745E4D"
+     }
